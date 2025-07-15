@@ -9,8 +9,8 @@
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+DISCORD :  https://discord.gg/uBP5shzG2k          
+YouTube :  https://www.youtube.com/@adyan2010dev                        
 
 Command Verified : ✓  
 Website        : ssrr.tech  
@@ -107,7 +107,7 @@ module.exports = {
                 .setAuthor({ 
                     name: "Alert!", 
                     iconURL: cmdIcons.dotIcon,
-                    url: "https://discord.gg/xQF9f9yUEM"
+                    url: "https://discord.gg/uBP5shzG2k"
                 })
                 .setDescription('- This command can only be used through slash commands!\n- Please use `/setup-hentai`')
                 .setTimestamp();
@@ -128,8 +128,8 @@ module.exports = {
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+DISCORD :  https://discord.gg/uBP5shzG2k          
+YouTube :  https://www.youtube.com/@adyan2010dev                      
 
 Command Verified : ✓  
 Website        : ssrr.tech  

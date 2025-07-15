@@ -148,7 +148,7 @@ module.exports = {
         .setAuthor({ 
             name: "Alert!", 
             iconURL: cmdIcons.dotIcon,
-            url: "https://discord.gg/xQF9f9yUEM"
+            url: "https://discord.gg/uBP5shzG2k"
         })
         .setDescription('- This command can only be used through slash commands!\n- Please use `/manage-autovoice`')
         .setTimestamp();

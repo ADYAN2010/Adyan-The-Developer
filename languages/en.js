@@ -52,7 +52,7 @@ const enLang = {
       serverCreatedOn: "Server Created On"
   },
   serverInfoError: "An error occurred while fetching server information.",
-  supportServerLink: "https://discord.gg/eu6rP3Hk8S",
+  supportServerLink: "https://discord.gg/uBP5shzG2k",
 
   // For subcommands
   serverIconTitle: "Server Icon",
@@ -61,7 +61,7 @@ const enLang = {
     // support.js
     supportDescription: "Support server of this Bot",
     supportTitle: "Support Server",
-    supportServerLink: "https://discord.gg/eu6rP3Hk8S",
+    supportServerLink: "https://discord.gg/uBP5shzG2k",
     githubLink: "https://github.com/ADYAN2010",
     replitLink: "https://replit.com/ADYAN2010",
     youtubeLink: "https://www.youtube.com/@GlaceYT",

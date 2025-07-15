@@ -90,7 +90,7 @@ const sendOrUpdateCentralizedEmbed = async (client, guild) => {
       .setAuthor({
         name: "Dynamic Voice Channel Manager",
         iconURL: "https://cdn.discordapp.com/emojis/1092879273712435262.gif",
-        url: "https://discord.gg/"
+        url: "https://discord.gg/uBP5shzG2k"
       })
       .setDescription('**Create and manage your own voice channels!**\n\nJoin the creation channel to get started. Use these controls to customize your experience.')
       .setColor('#5865F2') 
