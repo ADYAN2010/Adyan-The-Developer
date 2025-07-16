@@ -3,9 +3,9 @@ module.exports = {
     enabled: true, 
     lavalink: {
       name: "AdyanTheDeveloper",
-      password: "youshallnotpass",
-      host: "gh46.glacierhosting.org",
-      port:  25583,
+      password: "glaceyt",
+      host: "astro.wisp.uno",
+      port:  12676,
       secure: false
     }
 };
